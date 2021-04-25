@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+input,
+textarea {
+  font-family: "milliardbook";
+}
+@font-face {
+  font-family: "milliardbold";
+  src: url("Millard-f/rene_bieder__milliard_bold-webfont.woff2")
+      format("woff2"),
+    url("Millard-f/rene_bieder__milliard_bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "milliardbook";
+  src: url("Millard-f/rene_bieder__milliard_book-webfont.woff2")
+      format("woff2"),
+    url("Millard-f/rene_bieder__milliard_book-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "milliardsemibold";
+  src: url("Millard-f/rene_bieder__milliard_semibold-webfont.woff2")
+      format("woff2"),
+    url("Millard-f/rene_bieder__milliard_semibold-webfont.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "milliardlight";
+  src: url("Millard-f/rene_bieder__milliard_light-webfont.woff2")
+      format("woff2"),
+    url("Millard-f/rene_bieder__milliard_light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "milliardmedium";
+  src: url("Millard-f/rene_bieder__milliard_medium-webfont.woff2")
+      format("woff2"),
+    url("Millard-f/rene_bieder__milliard_medium-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

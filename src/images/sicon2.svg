@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.001" height="62.002" viewBox="0 0 62.001 62.002">
+  <g id="sicon2" transform="translate(-28 -2850)">
+    <g id="Group_155" data-name="Group 155" transform="translate(-91 200.001)">
+      <path id="Subtraction_23" data-name="Subtraction 23" d="M-6274-838a30.806,30.806,0,0,1-12.066-2.436,30.9,30.9,0,0,1-9.853-6.643,30.89,30.89,0,0,1-6.645-9.854A30.815,30.815,0,0,1-6305-869a30.816,30.816,0,0,1,2.436-12.067,30.893,30.893,0,0,1,6.645-9.854,30.894,30.894,0,0,1,9.853-6.644A30.806,30.806,0,0,1-6274-900a30.806,30.806,0,0,1,12.067,2.436,30.9,30.9,0,0,1,9.854,6.644,30.893,30.893,0,0,1,6.645,9.854A30.816,30.816,0,0,1-6243-869a30.815,30.815,0,0,1-2.436,12.067,30.89,30.89,0,0,1-6.645,9.854,30.885,30.885,0,0,1-9.854,6.643A30.806,30.806,0,0,1-6274-838Zm0-59a28.032,28.032,0,0,0-28,28,28.031,28.031,0,0,0,28,28,28.032,28.032,0,0,0,28-28A28.033,28.033,0,0,0-6274-897Z" transform="translate(6424 3550)" fill="#d9abe9"/>
+      <path id="Intersection_6" data-name="Intersection 6" d="M-6274-828a28.033,28.033,0,0,0,28-28,28.033,28.033,0,0,0-28-28v-3a30.821,30.821,0,0,1,12.065,2.435,30.937,30.937,0,0,1,9.855,6.644,30.906,30.906,0,0,1,6.644,9.855A30.818,30.818,0,0,1-6243-856a30.816,30.816,0,0,1-2.435,12.065,30.923,30.923,0,0,1-6.644,9.855,30.889,30.889,0,0,1-9.855,6.643A30.794,30.794,0,0,1-6274-825Z" transform="translate(6424 3537)" fill="#8e028e"/>
+    </g>
+    <g id="Group_165" data-name="Group 165" transform="translate(-46.81 52.19)">
+      <g id="Group_160" data-name="Group 160" transform="translate(90 2813)">
+        <g id="Group_158" data-name="Group 158" transform="translate(1.864 0)">
+          <rect id="Rectangle_121" data-name="Rectangle 121" width="29" height="26" transform="translate(-0.054 -0.19)" fill="#f9e6ff"/>
+          <rect id="Rectangle_122" data-name="Rectangle 122" width="15" height="26" transform="translate(13.946 -0.19)" fill="#dec1df"/>
+        </g>
+        <g id="Group_159" data-name="Group 159" transform="translate(0 0)">
+          <rect id="Rectangle_109" data-name="Rectangle 109" width="33" height="5" rx="1" transform="translate(-0.19 -0.19)" fill="#a900b5"/>
+          <path id="Rectangle_110" data-name="Rectangle 110" d="M0,0H16a1,1,0,0,1,1,1V4a1,1,0,0,1-1,1H0A0,0,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(15.81 -0.19)" fill="#7b007b"/>
+        </g>
+      </g>
+      <path id="Union_28" data-name="Union 28" d="M1.05,7a1.05,1.05,0,0,1,0-2.1h8.9a1.05,1.05,0,1,1,0,2.1Zm0-4.9a1.05,1.05,0,1,1,0-2.1h8.9a1.05,1.05,0,1,1,0,2.1Z" transform="translate(93.81 2821.81)" fill="#49414a"/>
+      <g id="Group_164" data-name="Group 164" transform="translate(108.64 2820.455)">
+        <rect id="Rectangle_114" data-name="Rectangle 114" width="8" height="11" rx="4" transform="translate(0.17 0.355)" fill="#ffff16"/>
+        <path id="Intersection_9" data-name="Intersection 9" d="M0,10.972V.028A4.551,4.551,0,0,1,.5,0,4.5,4.5,0,0,1,5,4.5v2A4.5,4.5,0,0,1,.5,11,4.551,4.551,0,0,1,0,10.972Z" transform="translate(4.17 0.355)" fill="#e2cb00"/>
+      </g>
+      <g id="Group_163" data-name="Group 163" transform="translate(94.495 2829.336)">
+        <g id="Group_162" data-name="Group 162" transform="translate(0 0)">
+          <rect id="Rectangle_113" data-name="Rectangle 113" width="12.254" height="1.838" rx="0.919" transform="matrix(0.469, 0.883, -0.883, 0.469, 1.623, 0)" fill="#49414a"/>
+          <g id="Group_161" data-name="Group 161" transform="translate(3.893 4.168)">
+            <path id="Union_27" data-name="Union 27" d="M10.13,12a1,1,0,0,1-1-1V6.3a2.1,2.1,0,0,1-2.1,2.1H2.1a2.1,2.1,0,1,1,0-4.2H5.542A5,5,0,0,1,10.479,0H15V12Zm-1-5.7V6H9.109A2.12,2.12,0,0,1,9.13,6.3Z" transform="translate(0.422 0.306)" fill="#a900b5"/>
+            <path id="Rectangle_117" data-name="Rectangle 117" d="M0,0H3A6,6,0,0,1,9,6v5a1,1,0,0,1-1,1H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(14.422 0.306)" fill="#8e028e"/>
+          </g>
+        </g>
+        <path id="Rectangle_126" data-name="Rectangle 126" d="M1.5,0h0A1.5,1.5,0,0,1,3,1.5V7A0,0,0,0,1,3,7H0A0,0,0,0,1,0,7V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(21.315 9.474)" fill="#a900b5"/>
+      </g>
+    </g>
+  </g>
+</svg>

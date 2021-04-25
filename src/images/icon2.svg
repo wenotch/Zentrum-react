@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="69" viewBox="0 0 40 69">
+  <g id="Group_133" data-name="Group 133" transform="translate(-213 -1376)">
+    <g id="Group_131" data-name="Group 131">
+      <path id="Rectangle_66" data-name="Rectangle 66" d="M4,0H20a0,0,0,0,1,0,0V69a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(213 1376)" fill="#fff"/>
+      <path id="Rectangle_67" data-name="Rectangle 67" d="M0,0H16a4,4,0,0,1,4,4V65a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(233 1376)" fill="#efcafc"/>
+    </g>
+    <g id="Group_132" data-name="Group 132">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="40" height="47" transform="translate(213 1387)" fill="#df51df"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="20" height="47" transform="translate(233 1387)" fill="#a900b5"/>
+    </g>
+    <g id="Group_129" data-name="Group 129">
+      <g id="Group_127" data-name="Group 127">
+        <rect id="Rectangle_70" data-name="Rectangle 70" width="12" height="16" rx="2" transform="translate(217 1392)" fill="#ffff16"/>
+        <path id="Union_16" data-name="Union 16" d="M-6303-884a2,2,0,0,1-2-2,2,2,0,0,1,2-2h6a2,2,0,0,1,2,2,2,2,0,0,1-2,2Zm0-6a2,2,0,0,1-2-2,2,2,0,0,1,2-2h6a2,2,0,0,1,2,2,2,2,0,0,1-2,2Zm0-6a2,2,0,0,1-2-2,2,2,0,0,1,2-2h6a2,2,0,0,1,2,2,2,2,0,0,1-2,2Z" transform="translate(6523 2312)" fill="#a900b5"/>
+      </g>
+      <g id="Group_128" data-name="Group 128" transform="translate(237 1392)">
+        <rect id="Rectangle_70-2" data-name="Rectangle 70" width="12" height="16" rx="2" transform="translate(0 20)" fill="#efcafc"/>
+        <path id="Union_16-2" data-name="Union 16" d="M2,16a2,2,0,0,1,0-4H8a2,2,0,0,1,0,4Zm0-6A2,2,0,1,1,2,6H8a2,2,0,0,1,0,4ZM2,4A2,2,0,0,1,2,0H8A2,2,0,0,1,8,4Z" transform="translate(1)" fill="#7b007b"/>
+      </g>
+    </g>
+    <g id="Group_130" data-name="Group 130">
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="8" height="4" rx="2" transform="translate(229 1437)" fill="#df51df"/>
+      <path id="Rectangle_75" data-name="Rectangle 75" d="M0,0H2A2,2,0,0,1,4,2V2A2,2,0,0,1,2,4H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(233 1437)" fill="#a900b5"/>
+    </g>
+  </g>
+</svg>
