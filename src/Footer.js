@@ -9,7 +9,7 @@ function Footer() {
   const classes = useStyles();
   return (
     <div className={classes.root}>
-      <img src={WaveT} alt="" />
+      <img src={WaveT} alt="" className={classes.img}/>
       <footer>
         <div className={classes.links}>
           <a href="https://www.privacypolicygenerator.info/live.php?token=9SAfc7AEYuxEFr42FqCemME2t9zlLjkU">

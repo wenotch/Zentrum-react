@@ -5,6 +5,11 @@ const useStyles = makeStyles((theme) => ({
     padding: "25px",
     textAlign: "left",
     marginBottom: "100px",
+    "@media only screen and (min-width: 768px)": {
+      padding: "50px 150px 50px",
+      width: "50%",
+      margin: "auto",
+    },
     "& h1": {
       fontSize: "38px",
       color: "#8e028e",

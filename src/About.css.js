@@ -9,6 +9,12 @@ const useStyles = makeStyles((theme) => ({
     backgroundImage: `url(${AboutImg})`,
     backgroundPosition: "right",
     backgroundRepeat: "no-repeat",
+    "@media only screen and (min-width: 768px)": {
+      padding: "20px 150px 50px",
+      // display: "flex",
+      width: "50%",
+      margin: "auto",
+    },
 
     "& h1": {
       fontSize: "38px",
@@ -34,6 +40,9 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: "#efcafc",
     height: "160px",
     marginLeft: "27px",
+    "@media only screen and (min-width: 768px)": {
+      height: "60px",
+    },
   },
   lefti: {
     textAlign: "left",

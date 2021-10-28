@@ -12,16 +12,14 @@ function About() {
   return (
     <div className={classes.about}>
       <div className={classes.firstSide}>
-        <img src={Zentrum} alt="" />
-        <h1>
-          About <span>Zentrum Tech School</span>
-        </h1>
-        <p>
-          At Zentrum Tech School, we groom the next generation of technology
-          leaders through and industry-integrated virtual training program.
-        </p>
-      </div>
-
+      <img src={Zentrum} alt="" />
+      <h1>
+        About <span>Zentrum Tech School</span>
+      </h1>
+      <p>
+        At Zentrum Tech School, we groom the next generation of technology
+        leaders through and industry-integrated virtual training program.
+      </p>
       <div className={classes.features}>
         <div className={classes.feature} data-aos="fade-up">
           <div className={classes.lefti}>
@@ -80,6 +78,7 @@ function About() {
             </p>
           </div>
         </div>
+      </div>{" "}
       </div>
     </div>
   );

@@ -7,6 +7,7 @@ function Mission() {
   return (
     <>
       <img
+        className={classes.img}
         src={WaveTop}
         id="mission"
         alt=""
@@ -32,7 +33,7 @@ function Mission() {
           </p>
         </div>
       </div>
-      <img src={WaveBom} alt="" id="contact" />
+      <img src={WaveBom} alt="" id="contact" className={classes.img} />
     </>
   );
 }

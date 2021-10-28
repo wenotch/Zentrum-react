@@ -2,7 +2,17 @@ import { makeStyles } from "@material-ui/core/styles";
 import Bg from "./images/zentrum-mission-background.svg";
 
 const useStyles = makeStyles((theme) => ({
+  img: {
+    "@media only screen and (min-width: 768px)": {
+      display: "none",
+    },
+  },
   mission: {
+    "@media only screen and (min-width: 768px)": {
+      padding: "50px 150px 50px",
+      display: "flex",
+      justifyContent: "space-between",
+    },
     width: "100%",
     padding: "40px 25px",
     textAlign: "left",
@@ -26,6 +36,9 @@ const useStyles = makeStyles((theme) => ({
   },
   miss: {
     marginBottom: "40px",
+    "@media only screen and (min-width: 768px)": {
+      width: "45%",
+    },
   },
 }));
 

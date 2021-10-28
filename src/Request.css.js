@@ -23,13 +23,17 @@ const useStyles = makeStyles((theme) => ({
   },
   tek: {
     width: "100%",
+
     textAlign: "center",
     backgroundColor: "#8e028e",
     borderRadius: "8px",
     marginBottom: "58px",
     "@media only screen and (min-width: 768px)": {
       width: "330px",
-      display: "inline-block",
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
       marginBottom: "0",
     },
     "& h1": {
