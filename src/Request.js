@@ -19,11 +19,7 @@ function Request() {
           <a href="/web-development-job-request">Request a job</a>
         </div>
       </div>
-      <div
-        className={`${classes.app} ${classes.tek}`}
-        
-        data-aos="fade-up"
-      >
+      <div className={`${classes.app} ${classes.tek}`} data-aos="fade-up">
         <div className={classes.imgReg}>
           <img src={Icon2} alt="" />
         </div>

@@ -23,6 +23,14 @@ const useStyles = makeStyles((theme) => ({
       color: "#49414a",
       lineHeight: "30px",
     },
+    "@media only screen and (min-width: 768px)": {
+      "& p": {
+      width:"50%"
+      },
+      padding: "30px 150px ",
+      // justifyContent: "space-between",
+      // alignItems: "center",
+    },
   },
 }));
 

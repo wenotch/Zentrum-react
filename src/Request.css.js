@@ -6,19 +6,32 @@ const useStyles = makeStyles((theme) => ({
   request: {
     padding: " 0 25px 60px",
     display: "flex",
+    width: "100%",
     flexDirection: "column",
+    "@media only screen and (min-width: 768px)": {
+      flexDirection: "row",
+      padding: "20px 150px",
+      justifyContent: "space-between",
+    },
   },
 
   scoop: {
     height: "78px",
+    "@media only screen and (min-width: 768px)": {
+      display: "none",
+    },
   },
   tek: {
     width: "100%",
     textAlign: "center",
     backgroundColor: "#8e028e",
     borderRadius: "8px",
-
     marginBottom: "58px",
+    "@media only screen and (min-width: 768px)": {
+      width: "330px",
+      display: "inline-block",
+      marginBottom: "0",
+    },
     "& h1": {
       color: "#fff",
       fontSize: "26px",

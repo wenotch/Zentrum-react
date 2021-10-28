@@ -4,20 +4,39 @@ const useStyles = makeStyles((theme) => ({
   hero: {
     marginTop: "-1px",
     backgroundColor: "#a900b5",
+    "@media only screen and (min-width: 768px)": {
+      display: "flex",
+      flexDirection: "row-reverse",
+      padding: "20px 150px 50px",
+      justifyContent: "space-between",
+      alignItems: "center",
+    },
   },
   imgDiv: {
     width: "100%",
-
     textAlign: "center",
+    "& img": {
+      width: "80%",
+    },
+    "@media only screen and (min-width: 768px)": {
+      width: "50%",
+    },
   },
   heroText: {
     width: "100%",
     padding: "0 25px",
+    "@media only screen and (min-width: 768px)": {
+      width: "50%",
+      padding: "0",
+    },
   },
   heroHeader: {
     fontFamily: "milliardsemibold",
     fontSize: "38px",
     color: "#ffffff",
+    "@media only screen and (min-width: 768px)": {
+      fontSize: "50px",
+    },
   },
   heroHeaderColor: {
     color: "#ffff16",
@@ -31,8 +50,6 @@ const useStyles = makeStyles((theme) => ({
     lineHeight: "30px",
   },
   section: {
-    // marginTop: "-4px",
-    // paddingBottom: "55px",
     width: "100%",
     height: "143px",
     position: "relative",
@@ -41,6 +58,10 @@ const useStyles = makeStyles((theme) => ({
     backgroundAttachment: "fixed",
     backgroundPosition: "center",
     overflowX: "hidden",
+    "@media only screen and (min-width: 768px)": {
+      display: "none",
+      
+    },
   },
 
   wave: {
